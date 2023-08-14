@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 100-matrix_mul.txt
 
 ============================
@@ -85,4 +86,6 @@ ValueErrors
 ===========
 
 If two matrices cannot be multiplied (ie.
+=======
+>>>>>>> f59f764492ff4709260d19f81135147250aa1b07
 
